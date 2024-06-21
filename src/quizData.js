@@ -7,7 +7,7 @@ const quizData = [
     {
       question: "Which river is the longest in the world?",
       options: ["Pacific", "Niger", "Nile", "Amazon"],
-      answer: "Solo Cloud"
+      answer: "Nile"
     },
     {
       question: "What is the name of the day after Thanksgiving?",
@@ -66,7 +66,7 @@ const quizData = [
     },
     {
       question: "In which month are the US Presidential elections held?",
-      options: ["February", "June", "Spetember", "November"],
+      options: ["February", "June", "September", "November"],
       answer: "November"
     },
     {
