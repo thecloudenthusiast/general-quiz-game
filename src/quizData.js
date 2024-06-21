@@ -73,6 +73,31 @@ const quizData = [
       question: "Which US President won the 2009 Nobel Peace Prize?",
       options: ["G.W Bush", "Bill Clinton", "Barrack Obama", "Jimmy Carter"],
       answer: "Barrack Obama"
+    },
+    {
+        question: "Which car manufacturer made the Beetle?",
+        options: ["Ford", "Toyota", "Nissan", "Volkswagen"],
+        answer: "Volkswagen"
+    },
+    {
+        question: "Who was the first president of South Africa?",
+        options: ["T. Mbeki", "N. Mandela", "J. Zuma", "P.W Botha"],
+        answer: "N. Mandela"
+    },
+    {
+        question: "Which country won the FIFA World Cup the most?",
+        options: ["Argentina", "Germany", "Brazil", "France"],
+        answer: "Brazil"
+    },
+    {
+        question: "What type of wine is a Chardonnay?",
+        options: ["White", "Red", "Blue", "Yellow"],
+        answer: "White"
+    },
+    {
+        question: "When was Hurricane Katrina?",
+        options: ["2003", "2005", "2007", "2009"],
+        answer: "2005"
     }
   ];
   
